@@ -10,25 +10,25 @@ Requirement’s:
 
 
 
-Create Following Tables..
+Create Following Tables..                  
 ////****CustomerMaster****//////                              
 CustID  | int(pk)                        
 CustName| varchar(50)                                 
 Address| varchar(50)                                                     
 Mobile Number | varchar(10)                                                  
 
-////****ProductMaster*****///
-ProdID| int(pk)
-ProdName | varchar(50
-Price |int
-Qty |int
+////****ProductMaster*****///                    
+ProdID| int(pk)                                                  
+ProdName | varchar(50)                                                           
+Price |int                                         
+Qty |int                                    
 
-////****BillDetails****///
-BillNo | int
-CustID | int(fk)
-ProdID | int(fk)
-Qty | int
-Total_Bill | int
+////****BillDetails****///                                 
+BillNo | int                              
+CustID | int(fk)                                       
+ProdID | int(fk)                         
+Qty | int                  
+Total_Bill | int                       
 
 
 

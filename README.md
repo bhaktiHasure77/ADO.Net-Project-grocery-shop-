@@ -11,11 +11,11 @@ Requirement’s:
 
 
 Create Following Tables..
-////****CustomerMaster****////
-CustID  | int(pk)
-CustName| varchar(50)
-Address| varchar(50)
-Mobile Number | varchar(10)
+////****CustomerMaster****//////                              
+CustID  | int(pk)                        
+CustName| varchar(50)                                 
+Address| varchar(50)                                                     
+Mobile Number | varchar(10)                                                  
 
 ////****ProductMaster*****///
 ProdID| int(pk)
